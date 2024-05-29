@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dhruv Saxena 😀</h1>
-<h3 align="center">A passionate data scientist from India, Current studying in Master in Artificial Intelligence  and Robotics from University of Hertfordshire  </h3>
+<h3 align="center">A passionate data scientist from India, Current studying Master in **Artificial Intelligence and Robotics** from **University of Hertfordshire**  </h3>
 
 
 ### I have technical experience and interest in:
