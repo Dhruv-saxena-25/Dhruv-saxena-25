@@ -8,7 +8,10 @@
 * Computer vision 
 * Natural Language Processing
 * MLOps
-* Generative AI  
+* Generative AI
+* Agentic AI Frameworks
+* MCP
+* LLMOps  
 * Robotics
 
   
