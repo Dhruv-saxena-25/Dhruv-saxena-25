@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&random=false&width=900&height=120&lines=%F0%9F%91%8B+Hello%2C+I'm+Dhruv+Saxena;%F0%9F%A4%96+AI+Solutions+Architect+%7C+ML+Engineer;%F0%9F%9A%80+Building+Tomorrow's+Intelligence+Today" alt="Dynamic Typing Animation" />
 </div>
 <br>
+<br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhruv-saxena-25&theme=nord&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
