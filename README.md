@@ -23,23 +23,30 @@
 ---
 
 ## 🎯 **About Me**
-
     self.expertise = {
         "🧠 AI & Machine Learning": [
             "Large Language Models (LLMs)", "Generative AI", "RAG Systems",
             "Multi-Modal AI", "Fine-Tuning", "Model Optimization"
         ],
+        "🤖 AI Agent Frameworks": [
+            "LangChain", "LangGraph", "CrewAI", "Multi-Agent Systems",
+            "Agent Orchestration", "Workflow Automation"
+        ],
+        "🕷️ Web Scraping & Automation": [
+            "Beautiful Soup", "Selenium WebDriver", "Requests",
+            "Dynamic Content Extraction", "Browser Automation"
+        ],
+        "⚡ API Development": [
+            "FastAPI", "RESTful APIs", "API Documentation",
+            "Authentication", "Rate Limiting", "Microservices"
+        ],
         "🔧 MLOps & Infrastructure": [
-            "Apache Spark", "AWS", "Docker", "Kubernetes", 
-            "ML Pipelines", "Model Deployment", "LLMOps"
+            "Jenkins", "GitHub Actions", "Apache Kafka", "Apache Airflow", 
+            "Terraform", "Docker", "Kubernetes", "ML Pipelines"
         ],
         "📊 Data Engineering": [
-            "Vector Databases", "MongoDB", "SQL", "Data Pipelines",
-            "Real-time Processing", "ETL/ELT"
-        ],
-        "🤖 Emerging Technologies": [
-            "Agentic AI", "MCP (Model Context Protocol)", 
-            "A2A Protocol", "Robotics", "Edge AI"
+            "Vector Databases", "MongoDB", "Cassandra", "MySQL",
+            "Real-time Processing", "ETL/ELT Pipelines"
         ]
     }
     
@@ -57,6 +64,7 @@ def get_life_philosophy(self):
         "values": ["Innovation", "Collaboration", "Continuous Learning"]
     }
 
+  
 ---
 
 ## 🛠️ **Technology Arsenal**
@@ -70,23 +78,38 @@ def get_life_philosophy(self):
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 
-### **☁️ Cloud & Infrastructure**
+### **🤖 AI Agent Orchestration**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge&logo=robot&logoColor=white)
+
+### **🕷️ Web Scraping & Automation**
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+
+### **⚡ API Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### **☁️ DevOps & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **🐍 Programming Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### **🗄️ Databases & Data**
+### **🗄️ Databases & Data Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Vector Database](https://img.shields.io/badge/Vector%20DB-FF6B6B?style=for-the-badge&logo=vectorlogozone&logoColor=white)
 
 </div>
 
@@ -111,10 +134,10 @@ def get_life_philosophy(self):
 
 | 🔬 **Research Area** | 📝 **Description** | 🎯 **Status** |
 |:---:|---|:---:|
-| 🤖 **Agentic AI Systems** | Building autonomous AI agents for complex problem-solving | `Active` |
+| 🤖 **Multi-Agent AI Systems** | Building autonomous AI agents using CrewAI and LangGraph for complex problem-solving | `Active` |
 | 🧠 **Multi-Modal LLMs** | Developing vision-language models for real-world applications | `In Progress` |
-| ⚡ **Real-time RAG** | Optimizing retrieval-augmented generation for live data | `Research Phase` |
-| 🌐 **MCP Integration** | Implementing Model Context Protocol for better AI communication | `Development` |
+| ⚡ **Real-time RAG with FastAPI** | Building high-performance RAG systems with vector databases and FastAPI backends | `Research Phase` |
+| 🕷️ **Intelligent Web Scraping** | Creating adaptive scraping solutions with Selenium and Beautiful Soup for dynamic content | `Development` |
 
 </div>
 
@@ -186,3 +209,4 @@ def get_life_philosophy(self):
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </div>
+
