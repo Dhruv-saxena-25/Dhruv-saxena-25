@@ -57,7 +57,7 @@
         "🎨 AI-Generated Content"
     ]
     
-def get_life_philosophy(self):
+    def get_life_philosophy(self):
     return {
         "motto": "Code with Purpose, Build with Passion 💡",
         "vision": "Making AI accessible to everyone",
@@ -145,7 +145,7 @@ def get_life_philosophy(self):
 
 ## 🌟 **Professional Highlights**
 
-<div align="center">
+<div align="left">
 
 ### **💼 Current Role**
 **Freelance AI Intern** @ **ZEP Analytics** | *EdTech & Data Science Platform*
@@ -153,8 +153,6 @@ def get_life_philosophy(self):
 - 🧠 Implementing **LLMOps pipelines** for scalable AI deployments  
 - 🤖 Building **multi-agent systems** using CrewAI and LangGraph
 - 📊 Creating **intelligent data processing** workflows for educational analytics
-
-### **🎯 Business Innovation Focus**
 
 ### **🌐 Impact & Achievements**
 - 📈 **Platform Growth**: Contributing to ZEP Analytics' 5000+ student community
