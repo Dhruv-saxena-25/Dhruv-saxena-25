@@ -1,76 +1,188 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=47A3FF&center=true&vCenter=true&random=false&width=600&lines=Hello+Everyone!+%F0%9F%91%8B+I'm+Dhruv+Saxena;Data+Scientist+%26+ML+Engineer;AI+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Data%20Meets%20Intelligence&descAlignY=51&descSize=16" />
 </div>
-
-<h3 align="center">🚀 Transforming Data into Intelligence | Building the Future with AI 🤖</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruv-saxena-25&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/dhruv-saxena-25?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Open%20Source-💚-brightgreen" alt="open source" />
-  <img src="https://img.shields.io/badge/AI%20Research-🔬-blue" alt="research" />
-</p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv-saxena-25&theme=nord&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="trophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&random=false&width=900&height=120&lines=%F0%9F%91%8B+Hello%2C+I'm+Dhruv+Saxena;%F0%9F%A4%96+AI+Solutions+Architect+%7C+ML+Engineer;%F0%9F%9A%80+Building+Tomorrow's+Intelligence+Today" alt="Dynamic Typing Animation" />
 </div>
 
-### I have technical experience and interest in:
-* Deep Learning
-* Machine Learning
-* Computer vision 
-* Natural Language Processing
-* MLOps
-* Generative AI
-* Agentic AI Frameworks
-* MCP
-* LLMOps  
-* Robotics
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruv-saxena-25&theme=nord&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
 
+<br/>
+
+<div align="center">
   
-👉[My Online Portfolio](https://dhruvsaxena25.com)
+  [![Profile Views](https://komarev.com/ghpvc/?username=dhruv-saxena-25&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=1a1b27)](https://github.com/dhruv-saxena-25)
+  [![GitHub Followers](https://img.shields.io/github/followers/dhruv-saxena-25?label=Followers&style=for-the-badge&color=00d4ff&labelColor=1a1b27&logo=github)](https://github.com/dhruv-saxena-25)
+  [![GitHub Stars](https://img.shields.io/github/stars/dhruv-saxena-25?label=Stars&style=for-the-badge&color=ffd700&labelColor=1a1b27&logo=github)](https://github.com/dhruv-saxena-25)
+  
+</div>
 
-### 👨‍💻 About Me
+---
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Dhruv Saxena"
-        self.role = "Data Scientist & ML Engineer"
-        self.location = "Building AI Agents 🌍"
-        self.expertise = {
-            "AI/ML": ["LLMs", "GenAI", "NLP", "RAG", "Fine Tuning", "ML", "DL", "NLP", "CV"],
-            "Infrastructure": ["Spark", "AWS", "MLOps", "LLMOps"],
-            "Data": ["Vector Data", "MongoDB", "SQL", "Data Pipeline"],
-        }
-        self.current_research = ["Agentic AI", "Multi-Modal LLMs", "RAG Systems", "MCP Server", "A2A Protocol", "DSA"]
+## 🎯 **About Me**
+
+    self.expertise = {
+        "🧠 AI & Machine Learning": [
+            "Large Language Models (LLMs)", "Generative AI", "RAG Systems",
+            "Multi-Modal AI", "Fine-Tuning", "Model Optimization"
+        ],
+        "🔧 MLOps & Infrastructure": [
+            "Apache Spark", "AWS", "Docker", "Kubernetes", 
+            "ML Pipelines", "Model Deployment", "LLMOps"
+        ],
+        "📊 Data Engineering": [
+            "Vector Databases", "MongoDB", "SQL", "Data Pipelines",
+            "Real-time Processing", "ETL/ELT"
+        ],
+        "🤖 Emerging Technologies": [
+            "Agentic AI", "MCP (Model Context Protocol)", 
+            "A2A Protocol", "Robotics", "Edge AI"
+        ]
+    }
     
-    def life_motto(self):
-        return "Transforming ideas into intelligent solutions, one model at a time! 🚀"
+    self.current_research = [
+        "🔬 Multi-Agent AI Systems",
+        "🧪 Quantum-Enhanced ML",
+        "🌐 Federated Learning",
+        "🎨 AI-Generated Content"
+    ]
+    
+def get_life_philosophy(self):
+    return {
+        "motto": "Code with Purpose, Build with Passion 💡",
+        "vision": "Making AI accessible to everyone",
+        "values": ["Innovation", "Collaboration", "Continuous Learning"]
+    }
 
-me = AIEngineer()
-print(me.life_motto())
-```
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-saxena-25-08-2000aug/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-saxena-25-08-2000aug/" height="30" width="40" /></a>
-<a href="https://kaggle.com/dhruvkaystha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhruvkaystha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dhruva.saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhruva.saxena" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruv_saxena25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruv_saxena25" height="30" width="40" /></a>
-</p>
+## 🛠️ **Technology Arsenal**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv-saxena-25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="dhruv-saxena-25" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-saxena-25&theme=tokyonight&hide_border=true" alt="dhruv-saxena-25" /></p>
-
-### My Hobbies and interests:
-* Traveling
-* Singing
-* Coding
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+
+### **🧠 AI/ML Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+
+### **☁️ Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **🐍 Programming Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+### **🗄️ Databases & Data**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **Performance Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv-saxena-25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-saxena-25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=15" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-saxena-25&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&border_radius=15" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🚀 **Current Projects & Research**
+
+<div align="center">
+
+| 🔬 **Research Area** | 📝 **Description** | 🎯 **Status** |
+|:---:|---|:---:|
+| 🤖 **Agentic AI Systems** | Building autonomous AI agents for complex problem-solving | `Active` |
+| 🧠 **Multi-Modal LLMs** | Developing vision-language models for real-world applications | `In Progress` |
+| ⚡ **Real-time RAG** | Optimizing retrieval-augmented generation for live data | `Research Phase` |
+| 🌐 **MCP Integration** | Implementing Model Context Protocol for better AI communication | `Development` |
+
+</div>
+
+---
+
+## 🌟 **Professional Highlights**
+
+<div align="center">
+
+
+</div>
+
+---
+
+## 🎵 **Currently Vibing To**
+
+<div align="center">
+  
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify-playing)](https://spotify-github-profile.kittinanx.com/api/spotify-playing)
+
+*🎧 Music fuels creativity and innovation*
+
+</div>
+
+---
+
+## 🌐 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-saxena-25-08-2000aug/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://dhruvsaxena25.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/dhruva.saxena)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/dhruvkaystha)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/dhruv_saxena25)
+
+</div>
+
+---
+
+## 🎨 **Beyond Code**
+
+<div align="center">
+
+**🌍 Explorer** • **🎤 Singer** • **💻 Creator** • **🎯 Problem Solver**
+
+*"The best way to predict the future is to create it"*
+
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-saxena-25&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true&border_radius=15" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 **"In the intersection of data and dreams, AI is born"**
+  
+  *Open for collaborations on AI/ML projects • Let's build the future together! 🚀*
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </div>
