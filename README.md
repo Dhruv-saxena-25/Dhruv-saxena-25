@@ -147,8 +147,28 @@ def get_life_philosophy(self):
 
 <div align="center">
 
+### **💼 Current Role**
+**Freelance AI Intern** @ **ZEP Analytics** | *EdTech & Data Science Platform*
+- 🚀 Developing innovative **AI Agent solutions** for business automation
+- 🧠 Implementing **LLMOps pipelines** for scalable AI deployments  
+- 🤖 Building **multi-agent systems** using CrewAI and LangGraph
+- 📊 Creating **intelligent data processing** workflows for educational analytics
+
+### **🎯 Business Innovation Focus**
+
+### **🌐 Impact & Achievements**
+- 📈 **Platform Growth**: Contributing to ZEP Analytics' 5000+ student community
+- 🤝 **Mentorship**: Guiding learners in AI/ML implementation strategies
+- 🔬 **Research**: Exploring cutting-edge applications of agentic AI in business processes
+- 💡 **Innovation**: Developing scalable solutions for AI-powered business transformation
 
 </div>
+
+---
+
+### **🎓 ZEP Analytics Overview**
+*An innovative EdTech platform specializing in Data Science, Machine Learning & AI education with industry-level practical exposure and real-world project implementation.*
+
 
 ---
 
@@ -156,7 +176,7 @@ def get_life_philosophy(self):
 
 <div align="center">
   
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify-playing)](https://spotify-github-profile.kittinanx.com/api/spotify-playing)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ca2uqzde7uzgrrlpd6xd3wmscm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 *🎧 Music fuels creativity and innovation*
 
